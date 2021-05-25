@@ -1,0 +1,14 @@
+{
+  "backup_time": "22:00",
+  "source": [
+    "C:\\Users\\Username\\AppData\\Roaming\\pip",
+    "C:\\Users\\Username\\.condarc"
+  ],
+  "destination": "E:\\",
+  "ignore": [
+    ".idea",
+    ".git",
+    "__pycache__",
+    "venv"
+  ]
+}
